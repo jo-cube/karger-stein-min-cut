@@ -1,1 +1,1 @@
-# karger-stein-min-cut
+# Karger-Stein Min-Cut Algorithm
